@@ -21,10 +21,10 @@
 
 #main-nav ul li a {
   display: block; 
-  color: white; 
-  text-align: center; 
+  color: white;
   padding: 14px 16px;
-  text-decoration: none;
+  position: absolute;
+  float: none;
 }
 
 #main-nav ul li a:hover {
