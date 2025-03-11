@@ -71,3 +71,11 @@ iframe {
   border-radius: 10px; 
 }
 
+p {
+  font-size: 18px;
+  margin: 10px 0px;
+}
+
+#index-content h3 {
+  color: cyan;
+}
