@@ -21,6 +21,7 @@
 
 #main-nav ul li a:hover {
   background-color: #D3D3D3;
+  color: red;
 }
 
 body {
@@ -39,4 +40,15 @@ h1, h3 {
   color: red;
   margin-bottom: 10px;
   font-size: 24px:
+}
+
+#marvel-rivals {
+  width: 100%; 
+  max-width: 400px; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 6px rgba(255, 0, 0, 0.5);
+}
+
+#marvel-rivals:hover {
+  content: url('../images/loki.png');
 }
