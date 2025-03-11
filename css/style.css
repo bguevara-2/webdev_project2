@@ -23,8 +23,6 @@
   display: block; 
   color: white;
   padding: 14px 16px;
-  position: absolute;
-  float: none;
 }
 
 #main-nav ul li a:hover {
