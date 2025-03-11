@@ -1,3 +1,10 @@
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 #main-nav ul {
   list-style-type: none; 
   margin: 0; 
@@ -26,7 +33,6 @@
 
 body {
   font-family: 'Arial';
-  font-size: 12px;
 }
 
 #content-wrapper {
@@ -52,3 +58,4 @@ h1, h3 {
 #marvel-rivals:hover {
   content: url('../images/loki.png');
 }
+
