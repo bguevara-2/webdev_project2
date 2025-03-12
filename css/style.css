@@ -19,8 +19,8 @@
 #main-nav ul {
   list-style-type: none; 
   display: flex;
-  text-align: center;
-  position: fixed;
+  justify-content: center;
+  align-items: center;
   padding: 0px;
   margin: 0px;
 }
@@ -40,6 +40,7 @@
 #main-nav ul li a:hover {
   background-color: #D3D3D3;
   color: red;
+  border-radius: 5px;
 }
 
 body {
