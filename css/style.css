@@ -134,3 +134,33 @@ p {
 #resume ul li {
   margin-bottom: 5px;
 }
+
+#horror-movies {
+  background-color: #A9A9A9;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.movie-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.movie {
+  max-width: 250px;
+  text-align: center;
+}
+
+.movie img {
+  width: 100%;
+}
+
+.movie p {
+  margin-top: 10px;
+  font-size: 16px;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
