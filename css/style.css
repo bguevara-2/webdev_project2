@@ -4,6 +4,9 @@
   font-weight: <weight>;
   font-style: normal;
 }
+#main-nav {
+  box-shadow: 0px 4px 8px rgba(255, 0, 0, 0.5)
+}
 
 #main-nav ul {
   list-style-type: none; 
